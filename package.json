@@ -1,6 +1,6 @@
 {
   "name": "util-components",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "dist/index.js",
   "author": "Matthew Hamlin <hamlim@outlook.com> (https://matthamlin.me/)",
   "license": "MIT",
